@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PracticeProject1</string>
+    <string name="title1">简易计算器练习V2</string>
+
+    <string name="backspaceButton">null</string>
+    <string name="btn_clearAll">AC</string>
+    <string name="btn_backspace">null</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_equal">=</string>
+    <string name="btn_square">x²</string>
+    <string name="btn_openSquared">√</string>
+    <string name="btn_dot">.</string>
+
+
+</resources>
